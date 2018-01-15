@@ -3,6 +3,5 @@ myvenv
 *.pyc
 *~
 .c9
-*.csv
 matrix
 results

@@ -5,21 +5,24 @@
 python2 mrclient.py
 ```
 
-Задача 1:
+
+## Задача 1:
 Запуск сервера
 ```
 python2 sp.py
 ```
 Результат в './results/SouthPark.csv'
 
-Задача 2:
+
+## Задача 2:
 Запуск сервера
 ```
 python2 sh.py
 ```
 Результат в './results/Sherlock.csv'
 
-Задача 3:
+
+## Задача 3:
 Генерация матрицы
 ```
 python2 gen_mat.py -size 3
